@@ -146,4 +146,4 @@ This project is developed for educational and learning purposes.
 
 ## Working Link
 
-https://food-delivery-app-cbe5.vercel.app/
+https://food-delivery-app-liart-three.vercel.app/
